@@ -1,0 +1,24 @@
+{
+  "name": "deuterium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-test": "nodemon dev-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonabstudios/deuterium.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonabstudios/deuterium/issues"
+  },
+  "homepage": "https://github.com/sonabstudios/deuterium#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
